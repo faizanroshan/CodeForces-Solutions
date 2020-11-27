@@ -26,8 +26,5 @@ int main() {
         }
     }
     int op = abs(spRow - 3) + abs(spCol - 3);
-    printf("%d", op);
-    
-    
-    
+    printf("%d", op);  
 }
