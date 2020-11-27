@@ -1,5 +1,5 @@
 /*
-	https://codeforces.com/problemset/problem/112/A
+	Source: https://codeforces.com/contest/263/problem/A
 */
 
 #include <stdio.h>
