@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
 	
 	int t;
 	scanf("%d", &t);
@@ -19,5 +19,4 @@ int main() {
 		else 
 			continue;
 	}
-	return 0;
 }
